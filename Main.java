@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println(isPalindrome("Налоги"));
 
-        System.out.println(isPalindrome("Пенсия"));
+        System.out.println(isPalindrome("Шалаш"));
 
         for (int i = 0; i < 300; i++) {
 
